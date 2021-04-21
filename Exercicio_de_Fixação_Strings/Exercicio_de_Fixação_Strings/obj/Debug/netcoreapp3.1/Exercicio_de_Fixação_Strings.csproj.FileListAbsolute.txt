@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio_de_Fixação_Strings\Exercicio_de_Fixação_Strings\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Strings.genruntimeconfig.cache

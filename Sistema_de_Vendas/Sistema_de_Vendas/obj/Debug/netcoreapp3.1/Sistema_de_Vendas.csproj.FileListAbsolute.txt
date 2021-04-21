@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.exe
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.deps.json
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.dll
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\bin\Debug\netcoreapp3.1\Sistema_de_Vendas.pdb
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.dll
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.pdb
+C:\Temp\Projetos\ws-vs2019\Projetos\Sistema_de_Vendas\Sistema_de_Vendas\obj\Debug\netcoreapp3.1\Sistema_de_Vendas.genruntimeconfig.cache

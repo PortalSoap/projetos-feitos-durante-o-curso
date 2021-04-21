@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_List\Exercicio_de_Fixação_List\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_List.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio1_EstruturaSequencial\Exercicio1_EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercicio1_EstruturaSequencial.genruntimeconfig.cache

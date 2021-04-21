@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.exe
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.dll
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\bin\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.dll
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_de_Teste_ClasseProduto\Projeto_de_Teste_ClasseProduto\obj\Debug\netcoreapp3.1\Projeto_de_Teste_ClasseProduto.genruntimeconfig.cache

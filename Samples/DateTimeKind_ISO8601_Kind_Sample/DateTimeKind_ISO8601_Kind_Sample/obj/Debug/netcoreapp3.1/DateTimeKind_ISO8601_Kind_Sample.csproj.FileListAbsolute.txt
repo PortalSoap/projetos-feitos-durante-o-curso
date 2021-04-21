@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\DateTimeKind_ISO8601_Kind_Sample\DateTimeKind_ISO8601_Kind_Sample\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601_Kind_Sample.genruntimeconfig.cache

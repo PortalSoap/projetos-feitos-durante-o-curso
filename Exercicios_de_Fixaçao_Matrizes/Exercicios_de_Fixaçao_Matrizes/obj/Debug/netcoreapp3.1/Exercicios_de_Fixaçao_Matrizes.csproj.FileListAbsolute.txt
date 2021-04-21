@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\bin\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_de_Fixaçao_Matrizes\Exercicios_de_Fixaçao_Matrizes\obj\Debug\netcoreapp3.1\Exercicios_de_Fixaçao_Matrizes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\bin\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio4_EstruturaFor\Exercicio4_EstruturaFor\obj\Debug\netcoreapp3.1\Exercicio4_EstruturaFor.genruntimeconfig.cache

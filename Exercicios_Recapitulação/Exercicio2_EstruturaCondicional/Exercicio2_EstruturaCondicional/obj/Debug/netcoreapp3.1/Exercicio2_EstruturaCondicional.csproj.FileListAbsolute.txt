@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio2_EstruturaCondicional\Exercicio2_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio2_EstruturaCondicional.genruntimeconfig.cache

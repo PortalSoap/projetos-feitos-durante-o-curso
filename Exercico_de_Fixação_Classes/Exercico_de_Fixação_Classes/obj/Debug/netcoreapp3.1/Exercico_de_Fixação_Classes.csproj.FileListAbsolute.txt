@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.exe
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.dll
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\bin\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.pdb
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.dll
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.pdb
+C:\Temp\Projetos\ws-vs2019\Exercico_de_Fixação_Classes\Exercico_de_Fixação_Classes\obj\Debug\netcoreapp3.1\Exercico_de_Fixação_Classes.genruntimeconfig.cache

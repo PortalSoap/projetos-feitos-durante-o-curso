@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\bin\Debug\netcoreapp3.1\Exercicio_Saida.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio_Saida\Exercicio_Saida\obj\Debug\netcoreapp3.1\Exercicio_Saida.genruntimeconfig.cache

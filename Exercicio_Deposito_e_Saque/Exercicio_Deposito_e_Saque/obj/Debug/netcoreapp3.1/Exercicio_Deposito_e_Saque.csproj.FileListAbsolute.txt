@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\bin\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_Deposito_e_Saque\Exercicio_Deposito_e_Saque\obj\Debug\netcoreapp3.1\Exercicio_Deposito_e_Saque.genruntimeconfig.cache

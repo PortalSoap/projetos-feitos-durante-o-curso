@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.exe
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.deps.json
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\bin\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.dll
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.pdb
+C:\Temp\Projetos\ws-vs2019\Exercicio3_EstruturaWhile\Exercicio3_EstruturaWhile\obj\Debug\netcoreapp3.1\Exercicio3_EstruturaWhile.genruntimeconfig.cache
