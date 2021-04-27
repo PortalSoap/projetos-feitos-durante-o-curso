@@ -4,24 +4,26 @@ namespace Teste_de_Funçoes {
     class Program {
         static void Main(string[] args) {
 
-            int a, b, q, r;
-            double q1, r1;
-            string[] ab;
+            int n, c, soma;
+            soma = 0;
 
-            ab = Console.ReadLine().Split();
-            a = int.Parse(ab[0]);
-            b = int.Parse(ab[1]);
-
-            q1 = a / b;
-            r1 = a % b;
-
-            Math.Round(q1);
-            Math.Round(r1);
-
-            q = (int) q1;
-            r = (int) r1;
-
-            Console.WriteLine(q + " " + r);
+            n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < n; i++) {
+                c = int.Parse(Console.ReadLine());
+                for (int j = 1; j <= c; j++) {
+                    if (j == 1) {
+                        soma += 1;
+                    }
+                    else if (j % 2 == 0) {
+                        soma -= 1;
+                    }
+                    else {
+                        soma += 1;
+                    }
+                }
+                Console.WriteLine(soma);
+                soma = 0;
+            }
         }
     }
 }
