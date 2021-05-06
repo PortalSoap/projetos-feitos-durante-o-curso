@@ -1,28 +1,34 @@
 ﻿using System;
 
-namespace Teste_de_Funçoes {
-    class Program {
-        static void Main(string[] args) {
+namespace Teste_de_Funçoes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int QT;
+            long sum, n1, n2;
+            string[] inputString, inputInt;
 
-            int n, c, soma;
-            soma = 0;
+            QT = int.Parse(Console.ReadLine());
+            for(int i = 0; i < QT; i++)
+            {
+                inputString = Console.ReadLine().Split();
+                inputInt = Console.ReadLine().Split();
 
-            n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n; i++) {
-                c = int.Parse(Console.ReadLine());
-                for (int j = 1; j <= c; j++) {
-                    if (j == 1) {
-                        soma += 1;
-                    }
-                    else if (j % 2 == 0) {
-                        soma -= 1;
-                    }
-                    else {
-                        soma += 1;
-                    }
+                n1 = int.Parse(inputInt[0]);
+                n2 = int.Parse(inputInt[1]);
+                sum = n1 + n2;
+
+                if (inputString[1] == "PAR" && sum % 2 == 0
+                    || inputString[1] == "IMPAR" && sum % 2 != 0)
+                {
+                    Console.WriteLine(inputString[0]);
                 }
-                Console.WriteLine(soma);
-                soma = 0;
+                else
+                {
+                    Console.WriteLine(inputString[2]);
+                }
             }
         }
     }

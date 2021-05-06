@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\bin\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercício_Funcionario_Contrato\Exercício_Funcionario_Contrato\obj\Debug\netcoreapp3.1\Exercício_Funcionario_Contrato.genruntimeconfig.cache
