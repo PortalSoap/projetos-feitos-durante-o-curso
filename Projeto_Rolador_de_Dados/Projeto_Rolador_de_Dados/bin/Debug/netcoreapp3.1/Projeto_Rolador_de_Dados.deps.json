@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto_Rolador_de_Dados/1.0.0": {
+        "runtime": {
+          "Projeto_Rolador_de_Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Rolador_de_Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

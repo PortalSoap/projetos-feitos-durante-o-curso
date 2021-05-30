@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.exe
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.dll
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\bin\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.dll
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Projeto_Rolador_de_Dados\Projeto_Rolador_de_Dados\obj\Debug\netcoreapp3.1\Projeto_Rolador_de_Dados.genruntimeconfig.cache

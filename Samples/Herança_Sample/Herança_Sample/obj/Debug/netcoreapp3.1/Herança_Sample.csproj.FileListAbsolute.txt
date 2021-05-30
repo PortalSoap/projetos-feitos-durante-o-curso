@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\bin\Debug\netcoreapp3.1\Herança_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Herança_Sample\Herança_Sample\obj\Debug\netcoreapp3.1\Herança_Sample.genruntimeconfig.cache
