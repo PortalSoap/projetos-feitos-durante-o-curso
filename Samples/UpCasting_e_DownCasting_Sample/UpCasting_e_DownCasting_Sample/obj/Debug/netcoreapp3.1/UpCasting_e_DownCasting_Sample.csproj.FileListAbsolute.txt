@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\bin\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.csprojAssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\UpCasting_e_DownCasting_Sample\UpCasting_e_DownCasting_Sample\obj\Debug\netcoreapp3.1\UpCasting_e_DownCasting_Sample.genruntimeconfig.cache

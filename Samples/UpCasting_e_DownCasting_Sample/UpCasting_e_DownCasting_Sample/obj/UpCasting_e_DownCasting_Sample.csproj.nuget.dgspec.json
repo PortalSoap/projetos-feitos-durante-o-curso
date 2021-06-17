@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Teste_de_Funçoes\\Teste_de_Funçoes\\Teste_de_Funçoes.csproj": {}
+    "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Teste_de_Funçoes\\Teste_de_Funçoes\\Teste_de_Funçoes.csproj": {
+    "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Teste_de_Funçoes\\Teste_de_Funçoes\\Teste_de_Funçoes.csproj",
-        "projectName": "Teste_de_Funçoes",
-        "projectPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Teste_de_Funçoes\\Teste_de_Funçoes\\Teste_de_Funçoes.csproj",
+        "projectUniqueName": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample.csproj",
+        "projectName": "UpCasting_e_DownCasting_Sample",
+        "projectPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample.csproj",
         "packagesPath": "C:\\Users\\Lucas M. Lacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Teste_de_Funçoes\\Teste_de_Funçoes\\obj\\",
+        "outputPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\UpCasting_e_DownCasting_Sample\\UpCasting_e_DownCasting_Sample\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Lucas M. Lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

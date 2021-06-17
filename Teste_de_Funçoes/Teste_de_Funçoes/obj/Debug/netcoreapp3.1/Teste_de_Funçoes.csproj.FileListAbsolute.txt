@@ -17,10 +17,10 @@ C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\bin\Debug\netc
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\bin\Debug\netcoreapp3.1\Teste_de_Funçoes.runtimeconfig.dev.json
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\bin\Debug\netcoreapp3.1\Teste_de_Funçoes.dll
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\bin\Debug\netcoreapp3.1\Teste_de_Funçoes.pdb
-C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.csprojAssemblyReference.cache
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.AssemblyInfoInputs.cache
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.AssemblyInfo.cs
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.csproj.CoreCompileInputs.cache
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.dll
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.pdb
 C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.genruntimeconfig.cache
+C:\Temp\Projetos\ws-vs2019\C#\Teste_de_Funçoes\Teste_de_Funçoes\obj\Debug\netcoreapp3.1\Teste_de_Funçoes.csproj.AssemblyReference.cache

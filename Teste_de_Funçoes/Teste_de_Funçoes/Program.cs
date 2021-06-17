@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using Teste_de_Funçoes.Entities;
 
 namespace Teste_de_Funçoes
@@ -7,56 +8,14 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            string choice;
-            int minValue, maxValue;
-            int times, result, total;
-            Dice d;
-            
-            Console.WriteLine("Rolador de Dados.");
-            Console.WriteLine();
-            
-            choice = "s";
-            
-            while (choice == "s")
-            {
-                total = 0;
+            Account acc1 = new Account("Maria", 1001, 500.0);
+            SavingsAccount sacc1 = new SavingsAccount("John", 1002, 500.0, 0.01);
 
-                // Entrada dos dados.
-                Console.Write("Numero mínimo: ");
-                minValue = int.Parse(Console.ReadLine());
+            acc1.Withdraw(100.0);
+            sacc1.Withdraw(100.0);
 
-                Console.Write("Número máximo: ");
-                maxValue = int.Parse(Console.ReadLine());
-
-                Console.Write("Quantos dados? ");
-                times = int.Parse(Console.ReadLine());
-
-                for (int i = 1; i <= times; i++)
-                {
-                    d = new Dice(minValue, maxValue);
-                    result = d.Roll();
-                    
-                    Console.WriteLine($"Resultado {i}: {result}");
-                    total += result;
-                }
-                Console.WriteLine("Total das rolagens: " + total);
-
-                Console.WriteLine();
-                Console.Write("Deseja recomeçar (s/n)? ");
-                choice = Console.ReadLine();
-
-                while (choice != "s" && choice != "n")
-                {
-                    Console.Write("Deseja recomeçar (s/n)? ");
-                    choice = Console.ReadLine();
-                }
-            }
-
-            Console.WriteLine();
-            Console.WriteLine("Obrigado por utilizar!");
-            Console.WriteLine();
-
-            Console.ReadLine();
+            Console.WriteLine("R$" + acc1.Balance.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("R$" + sacc1.Balance.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
