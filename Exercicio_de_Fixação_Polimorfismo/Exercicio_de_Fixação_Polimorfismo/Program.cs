@@ -20,14 +20,14 @@ namespace Teste_de_Funçoes
 
             Console.Write("Enter the number of employees: ");
             N = int.Parse(Console.ReadLine());
-            for(int i = 1; i <= N; i++)
+            for (int i = 1; i <= N; i++)
             {
                 Console.WriteLine($"Employee #{i} data:");
-                
+
                 Console.Write("Outsourced (y/n)? ");
                 choice = char.Parse(Console.ReadLine());
 
-                if(choice == 'y')
+                if (choice == 'y')
                 {
                     Console.Write("Name: ");
                     name = Console.ReadLine();
@@ -64,7 +64,7 @@ namespace Teste_de_Funçoes
             Console.WriteLine();
 
             Console.WriteLine("PAYMENTS:");
-            foreach(Employee e in Employees)
+            foreach (Employee e in Employees)
             {
                 Console.WriteLine(e);
             }

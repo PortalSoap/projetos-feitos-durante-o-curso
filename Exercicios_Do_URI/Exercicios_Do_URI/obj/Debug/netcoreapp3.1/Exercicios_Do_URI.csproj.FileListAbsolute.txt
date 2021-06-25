@@ -1,4 +1,3 @@
-C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.csprojAssemblyReference.cache
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.AssemblyInfoInputs.cache
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.AssemblyInfo.cs
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\bin\Debug\netc
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.dll
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.pdb
 C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.genruntimeconfig.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicios_Do_URI\Exercicios_Do_URI\obj\Debug\netcoreapp3.1\Exercicios_Do_URI.csproj.AssemblyReference.cache

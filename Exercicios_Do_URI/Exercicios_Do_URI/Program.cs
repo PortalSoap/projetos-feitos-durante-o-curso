@@ -6,30 +6,56 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            int QT;
-            long sum, n1, n2;
-            string[] inputString, inputInt;
+            int a, b, q, r;
+            string[] input;
 
-            QT = int.Parse(Console.ReadLine());
-            for(int i = 0; i < QT; i++)
+            input = Console.ReadLine().Split();
+            a = int.Parse(input[0]);
+            b = int.Parse(input[1]);
+
+            q = 0;
+            r = 0;
+
+            if (a > 0 && b > 0)
             {
-                inputString = Console.ReadLine().Split();
-                inputInt = Console.ReadLine().Split();
-
-                n1 = int.Parse(inputInt[0]);
-                n2 = int.Parse(inputInt[1]);
-                sum = n1 + n2;
-
-                if (inputString[1] == "PAR" && sum % 2 == 0
-                    || inputString[1] == "IMPAR" && sum % 2 != 0)
+                for (int i = 1; b * q + r != a; i++)
                 {
-                    Console.WriteLine(inputString[0]);
-                }
-                else
-                {
-                    Console.WriteLine(inputString[2]);
+                    if (i * b > a)
+                    {
+                        q = i - 1;
+                        r = a - b * q;
+                    }
                 }
             }
+
+            else if (a < 0 && b > 0)
+            {
+                for (int i = 1; b * q > a; i--)
+                {
+                    if (i * b < a)
+                    {
+                        q = i;
+                    }
+                }
+
+                for (int i = 1; b * q + r != a; i++)
+                {
+                    r = i;
+                }
+            }
+
+            else
+            {
+                for (int i = 1; b * q + r != a; i--)
+                {
+                    if (i * b > a)
+                    {
+                        q = i + 1;
+                        r = a - b * q;
+                    }
+                }
+            }
+            Console.WriteLine(q + " " + r);
         }
     }
 }
