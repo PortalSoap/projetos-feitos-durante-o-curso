@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\bin\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Polimorfismo_2\Exercicio_de_Fixação_Polimorfismo_2\obj\Debug\netcoreapp3.1\Exercicio_de_Fixação_Polimorfismo_2.genruntimeconfig.cache

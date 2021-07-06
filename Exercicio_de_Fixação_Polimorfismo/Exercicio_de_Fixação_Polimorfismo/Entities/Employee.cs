@@ -21,7 +21,7 @@ namespace Teste_de_Funçoes.Entities
 
         public virtual double Payment()
         {
-            return (double)ValuePerHour * Hours;
+            return ValuePerHour * Hours;
         }
 
         public override string ToString()

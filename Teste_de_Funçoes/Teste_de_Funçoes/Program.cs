@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Globalization;
 using System.Collections.Generic;
-using Teste_de_Funçoes.Entities;
 
 namespace Teste_de_Funçoes
 {
@@ -9,64 +7,25 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            string name;
-            char choice;
-            int N, hours;
-            double valuePerHour, additionalCharge;
+            int i;
 
-            Employee e1, e2;
+            DateTime timeNow, timeOld;
+            List<DateTime> dates = new List<DateTime>();
 
-            List<Employee> Employees = new List<Employee>();
+            timeNow = DateTime.Now;
+            timeOld = DateTime.Parse(timeNow.ToString());
+            dates.Add(timeOld);
 
-            Console.Write("Enter the number of employees: ");
-            N = int.Parse(Console.ReadLine());
-            for(int i = 1; i <= N; i++)
+            i = 0;
+            while(1 < 2)
             {
-                Console.WriteLine($"Employee #{i} data:");
-                
-                Console.Write("Outsourced (y/n)? ");
-                choice = char.Parse(Console.ReadLine());
-
-                if(choice == 'y')
+                if(timeNow != dates[i])
                 {
-                    Console.Write("Name: ");
-                    name = Console.ReadLine();
-
-                    Console.Write("Hours: ");
-                    hours = int.Parse(Console.ReadLine());
-
-                    Console.Write("Value per hour: ");
-                    valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                    Console.Write("Additional charge: ");
-                    additionalCharge = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                    e1 = new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge);
-                    Employees.Add(e1);
+                    Console.WriteLine(timeNow);
+                    timeOld = DateTime.Parse(timeNow.ToString());
+                    dates.Add(timeOld);
+                    i++;
                 }
-
-                else
-                {
-                    Console.Write("Name: ");
-                    name = Console.ReadLine();
-
-                    Console.Write("Hours: ");
-                    hours = int.Parse(Console.ReadLine());
-
-                    Console.Write("Value per hour: ");
-                    valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                    e2 = new Employee(name, hours, valuePerHour);
-                    Employees.Add(e2);
-                }
-            }
-
-            Console.WriteLine();
-
-            Console.WriteLine("PAYMENTS:");
-            foreach(Employee e in Employees)
-            {
-                Console.WriteLine(e);
             }
         }
     }
