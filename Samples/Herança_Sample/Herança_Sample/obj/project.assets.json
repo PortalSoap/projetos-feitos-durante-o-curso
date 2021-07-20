@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lucas M. Lacerda\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +17,15 @@
       "projectUniqueName": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\Herança_Sample\\Herança_Sample\\Herança_Sample.csproj",
       "projectName": "Herança_Sample",
       "projectPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\Herança_Sample\\Herança_Sample\\Herança_Sample.csproj",
-      "packagesPath": "C:\\Users\\Lucas M. Lacerda\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Temp\\Projetos\\ws-vs2019\\C#\\Samples\\Herança_Sample\\Herança_Sample\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lucas M. Lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

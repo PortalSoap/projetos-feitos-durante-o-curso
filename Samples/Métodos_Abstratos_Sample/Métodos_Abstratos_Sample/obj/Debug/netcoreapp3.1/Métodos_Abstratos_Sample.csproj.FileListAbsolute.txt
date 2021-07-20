@@ -1,0 +1,13 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\bin\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Métodos_Abstratos_Sample\Métodos_Abstratos_Sample\obj\Debug\netcoreapp3.1\Métodos_Abstratos_Sample.genruntimeconfig.cache

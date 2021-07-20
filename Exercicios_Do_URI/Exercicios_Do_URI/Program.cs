@@ -6,56 +6,34 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            int a, b, q, r;
+            int n, p, lessHit;
+
+            int[] t;
             string[] input;
 
+            n = int.Parse(Console.ReadLine());
+            t = new int[n];
+
             input = Console.ReadLine().Split();
-            a = int.Parse(input[0]);
-            b = int.Parse(input[1]);
 
-            q = 0;
-            r = 0;
-
-            if (a > 0 && b > 0)
+            for (int i = 0; i < input.Length; i++)
             {
-                for (int i = 1; b * q + r != a; i++)
+                t[i] = int.Parse(input[i]);
+            }
+
+            lessHit = t[0];
+            p = 1;
+
+            for (int j = 1; j < t.Length; j++)
+            {
+                if (t[j] < lessHit)
                 {
-                    if (i * b > a)
-                    {
-                        q = i - 1;
-                        r = a - b * q;
-                    }
+                    lessHit = t[j];
+                    p = j + 1;
                 }
             }
 
-            else if (a < 0 && b > 0)
-            {
-                for (int i = 1; b * q > a; i--)
-                {
-                    if (i * b < a)
-                    {
-                        q = i;
-                    }
-                }
-
-                for (int i = 1; b * q + r != a; i++)
-                {
-                    r = i;
-                }
-            }
-
-            else
-            {
-                for (int i = 1; b * q + r != a; i--)
-                {
-                    if (i * b > a)
-                    {
-                        q = i + 1;
-                        r = a - b * q;
-                    }
-                }
-            }
-            Console.WriteLine(q + " " + r);
+            Console.WriteLine(p);
         }
     }
 }

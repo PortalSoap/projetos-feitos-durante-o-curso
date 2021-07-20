@@ -4,7 +4,7 @@
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }
-        public double Balance { get; protected set; } // Se colocar isso, todas as subclasses dessa superclasse vão poder acessar e modificar as propriedades.
+        public double Balance { get; protected set; } // Se colocar isso, todas as subclasses dessa superclasse vão poder acessar e modificar as propriedades, mas só as subclasses.
 
         public Account()
         {
