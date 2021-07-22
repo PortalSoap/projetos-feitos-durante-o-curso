@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\ref\Exercicio_de_Fixação_Métodos_Abstratos.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\bin\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\ref\Exercicio_de_Fixação_Métodos_Abstratos.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Métodos_Abstratos\Exercicio_de_Fixação_Métodos_Abstratos\obj\Debug\net5.0\Exercicio_de_Fixação_Métodos_Abstratos.genruntimeconfig.cache

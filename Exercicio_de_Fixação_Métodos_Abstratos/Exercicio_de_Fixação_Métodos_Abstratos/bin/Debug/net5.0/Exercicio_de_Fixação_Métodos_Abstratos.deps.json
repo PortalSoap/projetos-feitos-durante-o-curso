@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_de_Fixação_Métodos_Abstratos/1.0.0": {
+        "runtime": {
+          "Exercicio_de_Fixação_Métodos_Abstratos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_de_Fixação_Métodos_Abstratos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
