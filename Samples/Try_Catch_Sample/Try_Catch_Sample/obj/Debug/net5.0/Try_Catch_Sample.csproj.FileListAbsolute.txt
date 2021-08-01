@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\ref\Try_Catch_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\bin\Debug\net5.0\Try_Catch_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\ref\Try_Catch_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Try_Catch_Sample\Try_Catch_Sample\obj\Debug\net5.0\Try_Catch_Sample.genruntimeconfig.cache
