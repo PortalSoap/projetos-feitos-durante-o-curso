@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exceções_Personalizadas_Exercício_Resolvido/1.0.0": {
+        "runtime": {
+          "Exceções_Personalizadas_Exercício_Resolvido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceções_Personalizadas_Exercício_Resolvido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

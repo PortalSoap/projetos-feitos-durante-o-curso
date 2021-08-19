@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Teste_de_Funçoes
 {
@@ -6,34 +7,22 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            int n, p, lessHit;
+            decimal x;
 
-            int[] t;
-            string[] input;
+            decimal[] n = new decimal[100];
 
-            n = int.Parse(Console.ReadLine());
-            t = new int[n];
+            x = decimal.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            n[0] = x;
 
-            input = Console.ReadLine().Split();
-
-            for (int i = 0; i < input.Length; i++)
+            for(int i = 1; i < 100; i++)
             {
-                t[i] = int.Parse(input[i]);
+                n[i] = n[i - 1] / 2.0000M;
             }
 
-            lessHit = t[0];
-            p = 1;
-
-            for (int j = 1; j < t.Length; j++)
+            for(int i = 0; i < 100; i++)
             {
-                if (t[j] < lessHit)
-                {
-                    lessHit = t[j];
-                    p = j + 1;
-                }
+                Console.WriteLine($"N[{i}] = {Math.Round(n[i], 4).ToString("F4", CultureInfo.InvariantCulture)}");
             }
-
-            Console.WriteLine(p);
         }
     }
 }
