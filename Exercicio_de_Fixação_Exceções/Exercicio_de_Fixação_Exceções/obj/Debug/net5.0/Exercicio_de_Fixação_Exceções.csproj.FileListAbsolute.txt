@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\ref\Exercicio_de_Fixação_Exceções.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\bin\Debug\net5.0\Exercicio_de_Fixação_Exceções.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\ref\Exercicio_de_Fixação_Exceções.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_de_Fixação_Exceções\Exercicio_de_Fixação_Exceções\obj\Debug\net5.0\Exercicio_de_Fixação_Exceções.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\ref\File_FileInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\bin\Debug\net5.0\File_FileInfo_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\ref\File_FileInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\File_FileInfo_Sample\File_FileInfo_Sample\obj\Debug\net5.0\File_FileInfo_Sample.genruntimeconfig.cache

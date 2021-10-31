@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 
 namespace Teste_de_Funçoes
 {
@@ -7,22 +6,64 @@ namespace Teste_de_Funçoes
     {
         static void Main(string[] args)
         {
-            decimal x;
+            int a, b, q, r, i;
+            string[] x;
+            bool condition;
 
-            decimal[] n = new decimal[100];
+            x = Console.ReadLine().Split(' ');
+            a = int.Parse(x[0]);
+            b = int.Parse(x[1]);
 
-            x = decimal.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            n[0] = x;
+            q = 0;
+            r = 0;
+            i = 0;
+            condition = false;
 
-            for(int i = 1; i < 100; i++)
+
+
+            while (i * b >= a)
             {
-                n[i] = n[i - 1] / 2.0000M;
+                if (a > 0 && b < 0 || a < 0 && b > 0)
+                {
+                    q = i;
+                    i--;
+
+                    r = a - q * b;
+                    if (r < 0)
+                    {
+                        q--;
+                        r = a - q * b;
+                    }
+                }
+
+                else
+                {
+                    q = i;
+                    i++;
+
+                    r = a - q * b;
+                    if (r < 0)
+                    {
+                        q++;
+                        r = a - q * b;
+                    }
+                }
+                condition = true;
             }
 
-            for(int i = 0; i < 100; i++)
+            if (condition == false)
             {
-                Console.WriteLine($"N[{i}] = {Math.Round(n[i], 4).ToString("F4", CultureInfo.InvariantCulture)}");
+                while (i * b <= a)
+                {
+                    q = i;
+                    i++;
+                    r = a - q * b;
+                    condition = true;
+                }
             }
+            Console.WriteLine(q + " " + r);
         }
     }
+
+
 }
