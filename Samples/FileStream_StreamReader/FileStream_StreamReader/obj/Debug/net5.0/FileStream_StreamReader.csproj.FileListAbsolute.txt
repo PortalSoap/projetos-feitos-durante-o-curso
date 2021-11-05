@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\ref\FileStream_StreamReader.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net5.0\FileStream_StreamReader.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\ref\FileStream_StreamReader.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net5.0\FileStream_StreamReader.genruntimeconfig.cache
