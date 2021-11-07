@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\ref\Bloco_Using_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\bin\Debug\net5.0\Bloco_Using_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\ref\Bloco_Using_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Bloco_Using_Sample\Bloco_Using_Sample\obj\Debug\net5.0\Bloco_Using_Sample.genruntimeconfig.cache
