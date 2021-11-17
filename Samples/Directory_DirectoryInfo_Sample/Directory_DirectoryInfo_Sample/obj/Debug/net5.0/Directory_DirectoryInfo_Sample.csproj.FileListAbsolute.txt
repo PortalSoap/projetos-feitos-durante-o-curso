@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\ref\Directory_DirectoryInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\bin\Debug\net5.0\Directory_DirectoryInfo_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\ref\Directory_DirectoryInfo_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\Directory_DirectoryInfo_Sample\Directory_DirectoryInfo_Sample\obj\Debug\net5.0\Directory_DirectoryInfo_Sample.genruntimeconfig.cache

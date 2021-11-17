@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.exe
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\ref\StreamWriter_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\bin\Debug\net5.0\StreamWriter_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\ref\StreamWriter_Sample.dll
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Samples\StreamWriter_Sample\StreamWriter_Sample\obj\Debug\net5.0\StreamWriter_Sample.genruntimeconfig.cache
