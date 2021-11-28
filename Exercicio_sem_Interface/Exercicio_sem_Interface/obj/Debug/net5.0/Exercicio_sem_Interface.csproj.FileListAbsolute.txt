@@ -1,0 +1,16 @@
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.exe
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.deps.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.runtimeconfig.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.runtimeconfig.dev.json
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\ref\Exercicio_sem_Interface.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\bin\Debug\net5.0\Exercicio_sem_Interface.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.csproj.AssemblyReference.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.AssemblyInfo.cs
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\ref\Exercicio_sem_Interface.dll
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.pdb
+C:\Temp\Projetos\ws-vs2019\C#\Exercicio_sem_Interface\Exercicio_sem_Interface\obj\Debug\net5.0\Exercicio_sem_Interface.genruntimeconfig.cache
